@@ -1,0 +1,20 @@
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.csproj.AssemblyReference.cache
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.Form1.resources
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.Properties.Resources.resources
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.csproj.GenerateResource.cache
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.csproj.CoreCompileInputs.cache
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\bin\Debug\day10_winform.exe.config
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\bin\Debug\day10_winform.exe
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\bin\Debug\day10_winform.pdb
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.exe
+C:\Users\COMMA\Documents\ปี3เทอม2\Robot\day10_winform\obj\Debug\day10_winform.pdb
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\bin\Debug\day10_winform.exe.config
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\bin\Debug\day10_winform.exe
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\bin\Debug\day10_winform.pdb
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.csproj.AssemblyReference.cache
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.Form1.resources
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.Properties.Resources.resources
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.csproj.GenerateResource.cache
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.csproj.CoreCompileInputs.cache
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.exe
+D:\Adobe After Effect 26.1.0.2\day10_winform-main\day10_winform\obj\Debug\day10_winform.pdb
